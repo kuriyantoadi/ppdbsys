@@ -13,7 +13,7 @@
             <h4><b>Tes Akademik, Tes Khusus dan Tes Wawancara</b></h4>
           </center>
           <center>
-            <h5><b>Tahun Ajaran 2024/2025</b></h4>
+            <h5><b>Tahun Ajaran 2025/2026</b></h4>
           </center>
           <br>
           <!-- font ganti jenis -->
